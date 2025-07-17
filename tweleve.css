@@ -1,0 +1,21 @@
+div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+}
+
+
+
+#div2
+{
+    position:sticky;
+    top:500px;
+    right:20px;
+    z-index:3;
+}
+#div4
+{
+    position:fixed;
+    top:0;   
+    z-index:4;
+}

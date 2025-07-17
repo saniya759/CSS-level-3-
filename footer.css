@@ -1,0 +1,15 @@
+div{
+    background-color:pink;
+    border:2px solid brown;
+    text-align:center;
+}
+
+
+
+
+#box4
+{
+    position:fixed;
+    bottom:0;
+    width:100vw;
+}

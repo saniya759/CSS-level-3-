@@ -1,0 +1,21 @@
+div{
+    height:100px;
+    width:100px;
+    background-color:blueviolet;
+    display:inline-block;
+}
+
+
+
+#div3
+{
+    position:sticky;
+    top:500px;
+    right:20px;
+    
+}
+#div4
+{
+    position:fixed;
+    top:0;   
+}

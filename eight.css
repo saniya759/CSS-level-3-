@@ -1,0 +1,13 @@
+div{
+    height:100px;
+    width:100px;
+    background-color:blue;
+    border:2px solid black;
+    display:inline-block;
+}
+#box4
+{
+    position:fixed;
+    right:10px;
+    bottom:10px;
+}
